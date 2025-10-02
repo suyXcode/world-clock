@@ -8,7 +8,7 @@ A simple world clock web app that shows the current time across different countr
 
 ## 🖼️ Screenshot / Preview  
 
-*(You can capture a screenshot of the app and place it here)*  
+![WebPage](image.png)
 
 ---
 
