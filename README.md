@@ -76,7 +76,20 @@ A simple world clock web app that shows the current time across different countr
 - To add a new country / timezone:  
     
   1. In `js/script.js`, include its timezone offset and display logic  
-  2. Add corresponding HTML markup or dynamically generate  
+  2. Add corresponding HTML markup or dynamically generate
+ 
+
+
+
+---
+
+## 👨‍💻 Author
+
+👤 **Suyash Singh**  
+🔗 [Github](https://github.com/suyXcode)  
+💼 [Linkedin](https://www.linkedin.com/in/suyxcode/)  
+🌐 [Portfolio](https://suyxcode.netlify.app)
+
 
 - Custom styling: modify `style.css`  
 
