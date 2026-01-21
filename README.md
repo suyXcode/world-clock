@@ -85,7 +85,7 @@ A simple world clock web app that shows the current time across different countr
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author : -
 
 👤 **Suyash Singh**  
 🔗 [Github](https://github.com/suyXcode)  
