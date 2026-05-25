@@ -3,11 +3,11 @@
 
 A simple world clock web app that shows the current time across different countries / time zones.
 
-[Live Demo → World Clock](https://suyxcode.github.io/world-clock/)
+[Live Demo → World Clock ](https://suyxcode.github.io/world-clock/)
 
 ---
 
-## 🖼️ Screenshot / Preview  
+## 🖼️ Preview  
 
 ![WebPage](image.png)
 
